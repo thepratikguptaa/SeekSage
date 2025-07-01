@@ -27,7 +27,7 @@
 - **Frontend:** React.js + Tailwind CSS
 
 ## Virtual Representation of how Inngest's AgentKit works:
-![SeekSage Banner](https://mintlify.s3.us-west-1.amazonaws.com/inngest/graphics/system.svg)
+<img src="https://mintlify.s3.us-west-1.amazonaws.com/inngest/graphics/system.svg" alt="Virtual Representation of how Inngest's AgentKit works" width="480" height="240" />
 
 ## 📥 Installation
 **Clone the repo**  
