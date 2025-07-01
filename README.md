@@ -1,5 +1,8 @@
 # SeekSage ~ “Wisdom on Demand” ✨
 
+<p>
+<img src="https://socialify.git.ci/thepratikguptaa/SeekSage-AI/image?custom_language=JavaScript&description=1&font=Jost&language=1&logo=https%3A%2F%2Fregistry.npmmirror.com%2F%40lobehub%2Ficons-static-png%2Flatest%2Ffiles%2Fdark%2Fgemini-brand-color.png&name=1&owner=1&pattern=Circuit+Board&theme=Light" alt="SeekSage-AI" width="640" height="320" />
+</p>
 
 ## 🚀 Overview
 **SeekSage** is a full‑stack, AI‑powered ticketing system designed to connect users with domain experts and actionable insights—instantaneously. Built on modern web technologies and leveraging Gemini AI, SeekSage transforms any question or problem into a “ticket” and routes it through an intelligent pipeline to deliver high‑quality guidance.
