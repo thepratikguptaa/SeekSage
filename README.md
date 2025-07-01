@@ -1,7 +1,7 @@
 # SeekSage ~ “Wisdom on Demand” ✨
 
 <p>
-<img src="https://socialify.git.ci/thepratikguptaa/SeekSage-AI/image?custom_language=JavaScript&description=1&font=Jost&language=1&logo=https%3A%2F%2Fregistry.npmmirror.com%2F%40lobehub%2Ficons-static-png%2Flatest%2Ffiles%2Fdark%2Fgemini-brand-color.png&name=1&owner=1&pattern=Circuit+Board&theme=Light" alt="SeekSage-AI" width="640" height="320" />
+<img src="https://socialify.git.ci/thepratikguptaa/SeekSage-AI/image?custom_language=JavaScript&description=1&font=Jost&language=1&logo=https%3A%2F%2Fregistry.npmmirror.com%2F%40lobehub%2Ficons-static-png%2Flatest%2Ffiles%2Fdark%2Fgemini-brand-color.png&name=1&owner=1&pattern=Circuit+Board&theme=Light" alt="SeekSage-AI" width="1280" height="640" />
 </p>
 
 ## 🚀 Overview
@@ -27,7 +27,7 @@
 - **Frontend:** React.js + Tailwind CSS
 
 ## Virtual Representation of how Inngest's AgentKit works:
-<img src="https://mintlify.s3.us-west-1.amazonaws.com/inngest/graphics/system.svg" alt="Virtual Representation of how Inngest's AgentKit works" width="480" height="240" />
+<img src="https://mintlify.s3.us-west-1.amazonaws.com/inngest/graphics/system.svg" alt="Virtual Representation of how Inngest's AgentKit works" width="640" height="320" />
 
 ## 📥 Installation
 **Clone the repo**  
