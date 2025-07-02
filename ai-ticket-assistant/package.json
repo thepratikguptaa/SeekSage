@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon index.js",
+    "inngest-dev": "npx inngest-cli dev",
     "start": "node index.js"
   },
   "keywords": [],
