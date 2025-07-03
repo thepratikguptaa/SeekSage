@@ -1,4 +1,4 @@
-import { express } from 'express';
+import express from 'express';
 import { createTicket, getTicket, getTickets } from '../controllers/ticket.js';
 import { authenticate } from '../middlewares/auth.js';
 
